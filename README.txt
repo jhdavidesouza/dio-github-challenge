@@ -13,4 +13,4 @@ Commands used so far:
 *git pull
 *git config
 
-It has been a great experience!
+It has been a great experience!CORRECTED MODIFICATION
